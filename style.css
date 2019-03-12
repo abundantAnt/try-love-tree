@@ -1,0 +1,21 @@
+body {
+  opacity: .95;
+  font-family: 'Libre', Bakersville;
+  font-weight: bolder;
+  color: rgb(253, 253, 146);
+  background-color: rgba(0, 0, 0, 0.897);
+  background-image: url(./images/yah.png);
+  background-repeat: no-repeat;
+  background-size: 35%;
+  position: sticky;
+  background-position: center bottom;
+}
+
+/* .inverted {
+  opacity: .95;
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-weight: bolder;
+  color: rgb(253, 253, 146);
+  background-color: rgba(0, 0, 0, 0.897);
+} */
+
